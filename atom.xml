@@ -4,7 +4,7 @@
   <subtitle><![CDATA[i miss you . but i missed you]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-22T07:16:51.000Z</updated>
+  <updated>2016-01-22T11:02:38.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,18 +15,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[hello hexo]]></title>
+    <link href="http://yoursite.com/2016/01/22/hello-hexo/"/>
+    <id>http://yoursite.com/2016/01/22/hello-hexo/</id>
+    <published>2016-01-22T10:55:13.000Z</published>
+    <updated>2016-01-22T11:02:38.000Z</updated>
+    <content type="html"><![CDATA[<p>#hello</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>#hello</p>
+]]>
+    </summary>
+    
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+    
+      <category term="哼一首歌等日落" scheme="http://yoursite.com/categories/%E5%93%BC%E4%B8%80%E9%A6%96%E6%AD%8C%E7%AD%89%E6%97%A5%E8%90%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[mynewpost]]></title>
     <link href="http://yoursite.com/2016/01/22/mynewpost/"/>
     <id>http://yoursite.com/2016/01/22/mynewpost/</id>
     <published>2016-01-21T17:28:39.000Z</published>
-    <updated>2016-01-22T07:16:51.000Z</updated>
+    <updated>2016-01-22T11:02:12.000Z</updated>
     <content type="html"><![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduction to markdown</a></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduc]]>
     </summary>
     
-      <category term="博客，文章" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
       <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
     
