@@ -38,16 +38,16 @@
     <link href="http://yoursite.com/2016/01/22/mynewpost/"/>
     <id>http://yoursite.com/2016/01/22/mynewpost/</id>
     <published>2016-01-21T17:28:39.000Z</published>
-    <updated>2016-01-22T11:02:12.000Z</updated>
-    <content type="html"><![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduction to markdown</a></p>
+    <updated>2016-01-22T13:56:04.000Z</updated>
+    <content type="html"><![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduction to markdown</a><br><img src="http://7xqe1b.com1.z0.glb.clouddn.com/pic1.jpg" alt=""></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduc]]>
     </summary>
     
-      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
     
       <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
     
