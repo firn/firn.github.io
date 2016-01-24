@@ -4,7 +4,7 @@
   <subtitle><![CDATA[离别的话一但说出口 就真的变成离别了]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-22T11:02:38.000Z</updated>
+  <updated>2016-01-24T15:23:07.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,63 +15,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[搭建hexo]]></title>
+    <link href="http://yoursite.com/2016/01/24/%E6%90%AD%E5%BB%BAhexo/"/>
+    <id>http://yoursite.com/2016/01/24/搭建hexo/</id>
+    <published>2016-01-24T15:08:25.000Z</published>
+    <updated>2016-01-24T15:23:07.000Z</updated>
+    <content type="html"><![CDATA[<p>搭建hexo花了挺多时间，记录一下，可能以后会用到<a id="more"></a></p>
+<h2 id="u53C2_u8003_u6587_u732E"><a href="#u53C2_u8003_u6587_u732E" class="headerlink" title="参考文献"></a>参考文献</h2><hr>
+<p><a href="http://zipperary.com/categories/hexo/" target="_blank" rel="external">hexo系列教程</a><br><a href="http://ibruce.info/2013/11/22/hexo-your-blog/" target="_blank" rel="external">hexo你的博客</a><br><a href="http://ninghao.net/blog/1412" target="_blank" rel="external">使用 Hexo 生成一套静态博客网页</a><br><a href="http://segmentfault.com/a/1190000000458953" target="_blank" rel="external">使用Github搭建静态博客（Hexo）</a><br><a href="http://www.jianshu.com/p/70343b7c2fd3" target="_blank" rel="external">Hexo 主题Light修改教程</a><br><a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="external">next主题</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>搭建hexo花了挺多时间，记录一下，可能以后会用到]]>
+    
+    </summary>
+    
+      <category term="境界彼方" scheme="http://yoursite.com/categories/%E5%A2%83%E7%95%8C%E5%BD%BC%E6%96%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[hello hexo]]></title>
-    <link href="http://yoursite.com/2016/01/22/hello-hexo/"/>
-    <id>http://yoursite.com/2016/01/22/hello-hexo/</id>
-    <published>2016-01-22T10:55:13.000Z</published>
-    <updated>2016-01-22T11:02:38.000Z</updated>
-    <content type="html"><![CDATA[<p>#hello</p>
+    <link href="http://yoursite.com/2016/01/24/hello-hexo/"/>
+    <id>http://yoursite.com/2016/01/24/hello-hexo/</id>
+    <published>2016-01-24T14:54:17.000Z</published>
+    <updated>2016-01-24T15:03:07.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="hello_hexo"><a href="#hello_hexo" class="headerlink" title="hello hexo"></a>hello hexo</h2><hr>
+<p>今天开始正式使用hexo了。<br>本来是打算使用wordpress的，发现不能托管在github上，于是找了其他blog，最后选择了hexo，之前还用了2天时间写wp的主题，结果浪费了。<br>花了近一天的时间，看了好几篇教程，终于把hexo搭建好了，然后又去折腾主题，后来去参考其他主题，发现next主题做得太好，然后就直接用上了。<a id="more"></a><br>太久没有码字，也不知道写些什么好。<br>在以后的日子里，希望能在这里记录自己成长的一点一滴，等某一天再回首，能够想起曾经的自己，记得自己的梦想和诺言。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>#hello</p>
-]]>
+    <![CDATA[<h2 id="hello_hexo"><a href="#hello_hexo" class="headerlink" title="hello hexo"></a>hello hexo</h2><hr>
+<p>今天开始正式使用hexo了。<br>本来是打算使用wordpress的，发现不能托管在github上，于是找了其他blog，最后选择了hexo，之前还用了2天时间写wp的主题，结果浪费了。<br>花了近一天的时间，看了好几篇教程，终于把hexo搭建好了，然后又去折腾主题，后来去参考其他主题，发现next主题做得太好，然后就直接用上了。]]>
+    
     </summary>
     
-      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
-    
-      <category term="哼一首歌等日落" scheme="http://yoursite.com/categories/%E5%93%BC%E4%B8%80%E9%A6%96%E6%AD%8C%E7%AD%89%E6%97%A5%E8%90%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[mynewpost]]></title>
-    <link href="http://yoursite.com/2016/01/22/mynewpost/"/>
-    <id>http://yoursite.com/2016/01/22/mynewpost/</id>
-    <published>2016-01-21T17:28:39.000Z</published>
-    <updated>2016-01-22T13:56:04.000Z</updated>
-    <content type="html"><![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduction to markdown</a><br><img src="http://7xqe1b.com1.z0.glb.clouddn.com/pic1.jpg" alt=""></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>#这里是正文，用markdown写，使用方法参照我原来的博客<a href="http://zipperary.com/2013/05/22/introduction-to-markdown/" target="_blank" rel="external">Introduc]]>
-    </summary>
-    
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
-    
-      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
-    
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2016/01/21/hello-world/"/>
-    <id>http://yoursite.com/2016/01/21/hello-world/</id>
-    <published>2016-01-21T15:23:09.000Z</published>
-    <updated>2016-01-21T15:23:09.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
+      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
