@@ -4,7 +4,7 @@
   <subtitle><![CDATA[离别的话一但说出口 就真的变成离别了]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-24T15:23:07.000Z</updated>
+  <updated>2016-01-26T10:35:27.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[技能补全计划]]></title>
+    <link href="http://yoursite.com/2016/01/26/%E6%8A%80%E8%83%BD%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92/"/>
+    <id>http://yoursite.com/2016/01/26/技能补全计划/</id>
+    <published>2016-01-26T10:29:32.000Z</published>
+    <updated>2016-01-26T10:35:27.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="u6280_u80FD_u8865_u5168_u8BA1_u5212"><a href="#u6280_u80FD_u8865_u5168_u8BA1_u5212" class="headerlink" title="技能补全计划"></a>技能补全计划</h2><a id="more"></a>
+<hr>
+<h3 id="u6E38_u620F"><a href="#u6E38_u620F" class="headerlink" title="游戏"></a>游戏</h3><blockquote>
+<p>u3d<br>ue4✘  </p>
+</blockquote>
+<h3 id="u753B_u753B"><a href="#u753B_u753B" class="headerlink" title="画画"></a>画画</h3><blockquote>
+<p>ps<br>sai<br>赛璐璐  </p>
+</blockquote>
+<h3 id="u89C6_u9891"><a href="#u89C6_u9891" class="headerlink" title="视频"></a>视频</h3><blockquote>
+<p>ae<br>vv<br>pv<br>静止画  </p>
+</blockquote>
+<h3 id="u97F3_u4E50"><a href="#u97F3_u4E50" class="headerlink" title="音乐"></a>音乐</h3><blockquote>
+<p>nuendo✘<br>v+<br>编曲✘<br>au  </p>
+</blockquote>
+<h3 id="u5EFA_u6A21"><a href="#u5EFA_u6A21" class="headerlink" title="建模"></a>建模</h3><blockquote>
+<p>3dmax<br>c4d  </p>
+</blockquote>
+<h3 id="u5199_u4F5C"><a href="#u5199_u4F5C" class="headerlink" title="写作"></a>写作</h3><blockquote>
+<p>小说<br>填词  </p>
+</blockquote>
+<h3 id="u7F16_u7A0B"><a href="#u7F16_u7A0B" class="headerlink" title="编程"></a>编程</h3><blockquote>
+<p>java✔<br>js✔<br>css✔<br>html✔<br>c#✔<br>c++✘  </p>
+</blockquote>
+<hr>
+<p>想想都有点小激动呢</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="u6280_u80FD_u8865_u5168_u8BA1_u5212"><a href="#u6280_u80FD_u8865_u5168_u8BA1_u5212" class="headerlink" title="技能补全计划"></a>技能补全计划</h2>]]>
+    
+    </summary>
+    
+      <category term="境界彼方" scheme="http://yoursite.com/categories/%E5%A2%83%E7%95%8C%E5%BD%BC%E6%96%B9/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[搭建hexo]]></title>
